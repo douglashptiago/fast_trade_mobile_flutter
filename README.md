@@ -1,0 +1,1 @@
+# fast_trade_mobile_flutter
